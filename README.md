@@ -24,7 +24,7 @@ dynamic-load-demo2
 	}
 ```
 
-导入plugin的方式参见http://www.longdw.com/plugin-skin/
+导入plugin interface的方式参见http://www.longdw.com/plugin-skin/
 
 
 
